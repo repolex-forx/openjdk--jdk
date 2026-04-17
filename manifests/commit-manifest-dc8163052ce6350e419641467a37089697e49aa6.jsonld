@@ -17,23 +17,23 @@
       "@type": "repolex:GraphFile",
       "repolex:graphType": "commit",
       "repolex:graphFilePath": "commit/commit.nq.gz",
-      "repolex:graphFileSize": 42650870
+      "repolex:graphFileSize": 42652867
     },
     {
       "@type": "repolex:GraphFile",
       "repolex:graphType": "branch",
       "repolex:graphFilePath": "branch/branch.nq.gz",
-      "repolex:graphFileSize": 20940
+      "repolex:graphFileSize": 21018
     },
     {
       "@type": "repolex:GraphFile",
       "repolex:graphType": "tag",
       "repolex:graphFilePath": "tag/tag.nq.gz",
-      "repolex:graphFileSize": 87873
+      "repolex:graphFileSize": 87655
     }
   ],
   "repolex:parseStatus": "parsed",
-  "repolex:parsedAt": "2026-04-17T20:51:55.437382+00:00",
+  "repolex:parsedAt": "2026-04-17T22:20:41.350970+00:00",
   "repolex:parserVersion": "0.1.0",
   "git:tagName": "jdk-27+17"
 }
